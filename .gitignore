@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+smartcart.db
+data/raw/
+data/cleaned/
+ml/artifacts/
+.env
